@@ -1,0 +1,5 @@
+ex001 - Olá Mundo
+ex002 - Recebe um nome e imprime mensagem de bem vindo
+ex003 - Recebe dois numeros e imprime a soma
+ex004 - Recebe algo digitado e mostra o tipo primitivo e todas as informações possíveis sobre ele
+ex005 - 
