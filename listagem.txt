@@ -1,5 +1,10 @@
-ex001 - Olá Mundo
-ex002 - Recebe um nome e imprime mensagem de bem vindo
-ex003 - Recebe dois numeros e imprime a soma
-ex004 - Recebe algo digitado e mostra o tipo primitivo e todas as informações possíveis sobre ele
-ex005 - 
+ex001 - Olá Mundo;
+ex002 - Recebe um nome e imprime mensagem de bem vindo;
+ex003 - Recebe dois numeros e imprime a soma;
+ex004 - Recebe algo digitado e mostra o tipo primitivo e todas as informações possíveis sobre ele;
+ex005 - Recebe um número e imprime o seu antecessor e sucessor;
+ex006 - Recebe um número e imprime o dobro, triplo e raiz quadrada dele;
+ex007 - Recebe duas notas e calcula a média;
+ex008 - Recebe uma medida em metros e imprime em Km, Hm, Dam, Dm, Cm e Mm;
+ex009 - Imprime a tabuada do número digitado;
+ex010 - 
