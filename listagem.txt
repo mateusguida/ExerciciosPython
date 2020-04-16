@@ -13,4 +13,9 @@ ex012 - Faça um algoritmo que leia o preço de um produto e mostre seu novo pre
 ex013 - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento;
 ex014 - Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit;
 ex015 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.;
-ex016 - ;
+ex016 - Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira;
+ex017 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa;
+ex018 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo;
+ex019 - Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido;
+ex020 - O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada;
+ex021 - Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3;
