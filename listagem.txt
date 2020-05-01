@@ -191,15 +191,100 @@ ex077 - Crie um programa que tenha uma tupla com várias palavras (não usar ace
 LISTAS - PARTE I
 ===================================
 
-ex078 - 
+ex078 - Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista;
 
-ex079 - 
+ex079 - Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente;
 
-ex080 - 
+ex080 - Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela;
 
-ex081 - 
+ex081 - Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre: A) Quantos números foram digitados, B) A lista de valores, ordenada de forma decrescente e C) Se o valor 5 foi digitado e está ou não na lista;
 
-ex082 - 
+ex082 - Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas;
 
-ex083 - 
+ex083 - Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta;
 
+
+LISTAS - PARTE II
+===================================
+
+ex084 - 
+
+ex085 - 
+
+ex086 - 
+
+ex087 - 
+
+ex088 - 
+
+ex089 - 
+
+
+DICIONÁRIOS
+===================================
+
+ex090 - 
+
+ex091 - 
+
+ex092 - 
+
+ex093 - 
+
+ex094 - 
+
+ex095 - 
+
+
+FUNÇÕES - PARTE I
+===================================
+
+ex096 - 
+
+ex097 - 
+
+ex098 - 
+
+ex099 - 
+
+ex100 - 
+
+
+FUNÇÕES - PARTE II
+===================================
+
+ex101 - 
+
+ex102 - 
+
+ex103 - 
+
+ex104 - 
+
+ex105 - 
+
+ex106 - 
+
+
+MÓDULOS E PACOTES
+===================================
+
+ex107 - 
+
+ex108 - 
+
+ex109 - 
+
+ex110 - 
+
+ex111 - 
+
+ex112 - 
+
+
+TRATAMENTO DE ERROS E EXCEÇÕES
+===================================
+
+ex113 - 
+
+ex114 - 
