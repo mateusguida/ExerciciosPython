@@ -1,4 +1,4 @@
-
+from lib.interface import *
 
 def arquivoExiste(arq):
     try:
@@ -27,7 +27,7 @@ def lerArquivo(arq):
     except:
         print('Houve um ERRO ao ler o arquivo!')
     else:
-        print('PESSOAS CADASTRADAS') #cabeçalho
+        cabecalho('PESSOAS CADASTRADAS')
         for linha in a:
             dado = linha.split(';')
             dado[1] = dado[1].replace('\n','')
